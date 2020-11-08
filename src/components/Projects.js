@@ -33,7 +33,7 @@ class Projects extends React.Component {
         </div>
 
         <div className="row justify-content-center">
-            <p className="col-lg-5 tool_text">
+            <p className="col-lg-5 project-intro-text">
             The following projects have been key in facilitating my growth as a web developer. Each project utilizes a combination of research, experimentation and applied techniques or concepts that are critical for developing any successful experience. Each of these projects are deployed using Github pages, so the app may need a moment to wake on initial request.
             </p>
         </div>

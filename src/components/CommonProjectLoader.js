@@ -33,7 +33,7 @@ const CommonProjectLoader = ({ projectTitle, imageSrc, projectDescription, langu
                     ))
                 }
 
-                <h4 className="card-title">{projectTitle}</h4>
+                <div className="card-title">{projectTitle}</div>
                 <p className="card-text">{projectDescription}</p>
                 
                 <span>
