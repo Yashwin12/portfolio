@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@700&display=swap');
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.intro{
+  margin: 10px 0 0 0;
+  padding: 0 20px 0 20px;
+  height: 100vh;
+}
+
+.cust_h1{
+    font-size: 1.8em;
+    font-weight: 700;
+    text-align: justify;
+}
+
+.cust_h3{
+  font-size: 0.7em;
+  font-weight: 400;
+  font-style: italic;
+  font-variant: normal;
+  text-align: center;
+  color: 	#007c87;
+}
+
+@media only screen and (min-width: 768px) {
+  .intro { 
+    height: 100vh;
+  }
+
+  .cust_h1{
+    font-size: 5em;
+    font-weight: 700;
+    text-align: justify;
+  }
+
+  .cust_h3{
+    font-size: 20px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-align: center;
+    color: 	#007c87;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .intro {
+    padding: 200px 200px 200px 200px;
+    height: 100vh;
+  }
+
+  .cust_h1{
+    font-size: 7em;
+    font-weight: 700;
+    text-align: justify;
+  }
+
+  .cust_h3{
+    font-size: 30px;
+    font-weight: 400;
+    font-style: italic;
+    font-variant: normal;
+    text-align: center;
+    color: 	#007c87;
+  }
+}
+
