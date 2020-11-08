@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.082c1198.chunk.css",
-    "main.js": "/portfolio/static/js/main.95be9f21.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.95be9f21.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.ebe9fac3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ebe9fac3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
     "static/js/2.b5e18dde.chunk.js": "/portfolio/static/js/2.b5e18dde.chunk.js",
     "static/js/2.b5e18dde.chunk.js.map": "/portfolio/static/js/2.b5e18dde.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.7735e3db7c7a094cbe887f99caffc7a5.js": "/portfolio/precache-manifest.7735e3db7c7a094cbe887f99caffc7a5.js",
+    "precache-manifest.565fe36e539bb43666538a1038ff44a1.js": "/portfolio/precache-manifest.565fe36e539bb43666538a1038ff44a1.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.082c1198.chunk.css.map": "/portfolio/static/css/main.082c1198.chunk.css.map",
@@ -33,13 +33,13 @@
     "static/media/react.png": "/portfolio/static/media/react.83480ed4.png",
     "static/media/roadmap.png": "/portfolio/static/media/roadmap.96a1cfa0.png",
     "static/media/universeLovers.png": "/portfolio/static/media/universeLovers.d61a477f.png",
-    "static/media/yashvinResume.pdf": "/portfolio/static/media/yashvinResume.69cec65d.pdf"
+    "static/media/yashvinResume.pdf": "/portfolio/static/media/yashvinResume.05b0681e.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.b5e18dde.chunk.js",
     "static/css/main.082c1198.chunk.css",
-    "static/js/main.95be9f21.chunk.js"
+    "static/js/main.ebe9fac3.chunk.js"
   ]
 }
