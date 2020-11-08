@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@700&display=swap');
 
-
 html {
   scroll-behavior: smooth;
 }
@@ -11,14 +10,14 @@ html {
   height: 100vh;
 }
 
-.cust_h1{
-    font-size: 1.8em;
+.nameHeader{
+    font-size: 7em;
     font-weight: 700;
     text-align: justify;
 }
 
-.cust_h3{
-  font-size: 0.7em;
+.subHeaderIntro{
+  font-size: 1.8em;
   font-weight: 400;
   font-style: italic;
   font-variant: normal;
@@ -26,46 +25,47 @@ html {
   color: 	#007c87;
 }
 
-@media only screen and (min-width: 768px) {
+/* Media Query for Mobile Devices */
+@media (max-width: 480px) {
   .intro { 
     height: 100vh;
   }
 
-  .cust_h1{
+  .nameHeader{
     font-size: 5em;
-    font-weight: 700;
-    text-align: justify;
   }
 
-  .cust_h3{
-    font-size: 20px;
-    font-weight: 400;
-    font-style: italic;
-    font-variant: normal;
-    text-align: center;
-    color: 	#007c87;
+  .subHeaderIntro{
+    font-size: 1.5em;
   }
 }
 
-@media only screen and (min-width: 992px) {
-  .intro {
-    padding: 200px 200px 200px 200px;
+/* Media Query for low resolution  Tablets, Ipads */
+@media (min-width: 481px) and (max-width: 767px) {
+
+  .intro { 
     height: 100vh;
   }
 
-  .cust_h1{
-    font-size: 7em;
-    font-weight: 700;
-    text-align: justify;
+  .nameHeader{
+    font-size: 5em;
   }
 
-  .cust_h3{
-    font-size: 30px;
-    font-weight: 400;
-    font-style: italic;
-    font-variant: normal;
-    text-align: center;
-    color: 	#007c87;
+  .subHeaderIntro{
+    font-size: 1.5em;
   }
 }
 
+@media (min-width: 768px) and (max-width: 991px) {
+  .intro { 
+    height: 100vh;
+  }
+
+  .nameHeader{
+    font-size: 5em;
+  }
+
+  .subHeaderIntro{
+    font-size: 1.5em;
+  }
+}
