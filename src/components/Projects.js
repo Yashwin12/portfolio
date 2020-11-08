@@ -47,9 +47,8 @@ class Projects extends React.Component {
                 imageSrc={portfolioImgSrc}
                 projectDescription={myConstClass.PORTFOLIO_DESC}
                 languagesUsed={[react, html5, css3, bootstrap]}
-                // TODO_YASH: Add these two below links..
-                liveDemoLocation="https://yashwin12.github.io/journey-weather/"
-                sourceCodeLocation="https://github.com/Yashwin12/journey-weather"
+                liveDemoLocation="https://yashwin12.github.io/portfolio/"
+                sourceCodeLocation="https://github.com/Yashwin12/portfolio"
             />
 
             <CommonProjectLoader

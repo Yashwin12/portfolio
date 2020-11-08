@@ -27,7 +27,6 @@ const CommonProjectLoader = ({ projectTitle, imageSrc, projectDescription, langu
             }
 
             <td className="card-block text-center" style= {{ width: "50%", lineHeight: "normal" }}>
-                {/*TODO_YASH: UPDATE THIS TO BLACK AND WHITE  */}
                 {
                     languagesUsed.map( ( language ) => (                        
                         <img src={language} className="projectIcon" />
