@@ -1,6 +1,8 @@
 import React from "react";
 import linkedinImageSrc from "../images/tools/linkedin.png";
-import GitHub from "../images/tools/github.png";
+import gitHubImageSrc from "../images/tools/github.png";
+import gmailImageSrc from "../images/tools/gmail.png";
+
 import resume from "../files/yashvinResume.pdf";
 
 class Footer extends React.Component {
@@ -53,8 +55,18 @@ class Footer extends React.Component {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <img src={GitHub} alt="Github" width="40" height="40" />
+                      <img src={gitHubImageSrc} alt="Github" width="40" height="40" />
                     </a>
+
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    <a
+                      href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=munsadwalayashwin@gmail.com"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <img src={gmailImageSrc} alt="Gmail" width="40" height="40" />
+                    </a>
+
                   </h6>
                 </div>
               </div>

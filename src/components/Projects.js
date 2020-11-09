@@ -34,7 +34,7 @@ class Projects extends React.Component {
 
         <div className="row justify-content-center">
             <p className="col-lg-5 project-intro-text">
-            The following projects have been key in facilitating my growth as a web developer. Each project utilizes a combination of research, experimentation and applied techniques or concepts that are critical for developing any successful experience. Each of these projects are deployed using Github pages, so the app may need a moment to wake on initial request.
+              {myConstClass.PROJECTS_DESC}
             </p>
         </div>
 
@@ -47,7 +47,7 @@ class Projects extends React.Component {
                 imageSrc={portfolioImgSrc}
                 projectDescription={myConstClass.PORTFOLIO_DESC}
                 languagesUsed={[react, html5, css3, bootstrap]}
-                liveDemoLocation="https://yashwin12.github.io/portfolio/"
+                // liveDemoLocation="https://yashwin12.github.io/portfolio/"
                 sourceCodeLocation="https://github.com/Yashwin12/portfolio"
             />
 
@@ -61,7 +61,7 @@ class Projects extends React.Component {
             />
 
             <CommonProjectLoader
-                projectTitle="Algo-Visualizer"
+                projectTitle="Algo-DS-Visualizer"
                 imageSrc={algoVisualizerImgSrc}
                 projectDescription={myConstClass.ALGO_VISUALIZER_DESC}
                 languagesUsed={[react, html5, css3, bootstrap]}
@@ -78,9 +78,9 @@ class Projects extends React.Component {
             />
 
             <CommonProjectLoader
-                projectTitle="IOT-Smart City"
+                projectTitle="Air Surveil System"
                 imageSrc={IOT_dashboardImgSrc}
-                projectDescription={myConstClass.UNIVERSE_LOVERS_DESC}
+                projectDescription={myConstClass.AIR_SURVEIL_SYSTEM_DESC}
                 languagesUsed={[nodejs, mongoDB, html5, css3, bootstrap]}
                 otherLinks = { ["https://www.youtube.com/watch?v=mxR_nN_2Qrw&feature=youtu.be","https://ieeexplore.ieee.org/document/8777481"]}
                 otherLinkLabels = {[ "Video", "IEEE Paper"]}
