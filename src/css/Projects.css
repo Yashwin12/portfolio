@@ -22,6 +22,8 @@
   text-align: center;
   height: 12vw;
   overflow: scroll;
+  /* font-family: Roboto, Helvetica, Arial, sans-serif; */
+  letter-spacing: 0.07em;
 }
 
 .project-table {

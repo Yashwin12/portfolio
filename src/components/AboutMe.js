@@ -12,6 +12,7 @@ import mongoImageSrc from "../images/tools/mongodb.png";
 import oracleImageSrc from "../images/tools/oracle.png";
 
 import CommonToolsLoader from "./CommonToolsLoader";
+import * as myConstClass from "../utilities/Constants";
 
 class AboutMe extends React.Component {
   render() {
@@ -29,14 +30,7 @@ class AboutMe extends React.Component {
               {/* Paragraph */}
               <div className="row justify-content-center">
                 <p className="tool_text">
-                  Although the following set of tools are my goto for front-end
-                  and back-end development, I'm always experimenting and
-                  challenging myself to try emerging tools and technologies to
-                  ensure that I can create engaging and, most importantly,
-                  <strong>
-                    <i> delightful </i>
-                  </strong>
-                  experiences for the end-user!
+                  {myConstClass.ABOUT_ME_DESC}
                 </p>
               </div>
 

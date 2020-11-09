@@ -1,6 +1,7 @@
 import React from 'react';
 import Typical from 'react-typical'
 import "../css/heading.css"
+import * as myConstClass from "../utilities/Constants";
 
 class Header extends React.Component {
 
@@ -18,11 +19,10 @@ class Header extends React.Component {
                     </div>
                     <div className="row justify-content-center">
                       <section className="subHeaderIntro">
-                        <Typical
-                          steps={['I am a', 2500, "I am a computer engineer with a passion for building a unique & useful application. I love to take a new venture to bring up the wow factor into the application. Initiate scroll to explore my expertise.", 10000]}
-                          loop={1}
-                          wrapper="p"
-                        /></section>
+                        <Typical loop={1} wrapper="p"
+                          steps={['I am a', 2500, myConstClass.HEADING_DESC, 10000]}
+                        />
+                      </section>
                     </div>
                   </div>
                 </div>
