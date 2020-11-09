@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.082c1198.chunk.css",
-    "main.js": "/portfolio/static/js/main.ebe9fac3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.ebe9fac3.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.62a3e0b5.chunk.css",
+    "main.js": "/portfolio/static/js/main.b745bbe6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b745bbe6.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
     "static/css/2.11829350.chunk.css": "/portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.b5e18dde.chunk.js": "/portfolio/static/js/2.b5e18dde.chunk.js",
-    "static/js/2.b5e18dde.chunk.js.map": "/portfolio/static/js/2.b5e18dde.chunk.js.map",
+    "static/js/2.a8ffc8b5.chunk.js": "/portfolio/static/js/2.a8ffc8b5.chunk.js",
+    "static/js/2.a8ffc8b5.chunk.js.map": "/portfolio/static/js/2.a8ffc8b5.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.565fe36e539bb43666538a1038ff44a1.js": "/portfolio/precache-manifest.565fe36e539bb43666538a1038ff44a1.js",
+    "precache-manifest.bd113d89f5b6276e4d332ce1ddf1546b.js": "/portfolio/precache-manifest.bd113d89f5b6276e4d332ce1ddf1546b.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/portfolio/static/css/2.11829350.chunk.css.map",
-    "static/css/main.082c1198.chunk.css.map": "/portfolio/static/css/main.082c1198.chunk.css.map",
-    "static/js/2.b5e18dde.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b5e18dde.chunk.js.LICENSE.txt",
+    "static/css/main.62a3e0b5.chunk.css.map": "/portfolio/static/css/main.62a3e0b5.chunk.css.map",
+    "static/js/2.a8ffc8b5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a8ffc8b5.chunk.js.LICENSE.txt",
     "static/media/BSMockups.png": "/portfolio/static/media/BSMockups.aefc4f36.png",
     "static/media/DSAndAlgos.png": "/portfolio/static/media/DSAndAlgos.8a0ad8b5.png",
     "static/media/IOT_dashboard.png": "/portfolio/static/media/IOT_dashboard.6f484ae9.png",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.209c2d7e.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.b5e18dde.chunk.js",
-    "static/css/main.082c1198.chunk.css",
-    "static/js/main.ebe9fac3.chunk.js"
+    "static/js/2.a8ffc8b5.chunk.js",
+    "static/css/main.62a3e0b5.chunk.css",
+    "static/js/main.b745bbe6.chunk.js"
   ]
 }
