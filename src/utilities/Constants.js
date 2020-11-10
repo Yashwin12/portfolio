@@ -6,13 +6,13 @@ export const PROJECTS_DESC = "Each of the following projects were inspired by my
 
 export const PORTFOLIO_DESC = "The current website you're browsing is built with some of my favorite tools to be responsive and performant. This site provides overview about me and my projects. Additionally, it is available in both dark🌚 and light🌝 theme.";
 
-export const JOURNEY_WEATHER_DESC = "🌧☀️🌚 Provides weather forecast city-by-city for your entire road trip at each point along a journey in an easy to understand way manner. This self-inspired project allows you to prepare for the worst. Uses Google Maps and OpenWeather APIs "; 
+export const JOURNEY_WEATHER_DESC = "🌧☀️🌚 Provides weather forecast city-by-city for your entire road trip at each point along a journey in an easy to understand way. This self-inspired project allows you to prepare for the worst. Uses Google Maps and OpenWeather APIs "; 
 
 export const ALGO_VISUALIZER_DESC = "👾 Visualize Algorithms and Data structures using animations. Currently Linear Search, Binary Search and Binary Search Tree (BST) are implemented. For BST, one can add Nodes to the tree and then perform a search operation.";
 
 export const UNIVERSE_LOVERS_DESC = "👽🌎🚀 Outer spaces is full of unknown secrets; Created a few projects that explore the discoveries that have been made. Currently this project implements Mars' weather, ISS Tracker & Light Pollution Map. Uses NASA and other few APIs.";
 
-export const AIR_SURVEIL_SYSTEM_DESC = "Fabricated hardware for detection of air toxins present in the environment and visualized its data online via an intuitive📊 📈  website. Live monitoring of air toxins and controlling of hardware from a website was enabled. Refer below two links for more info." 
+export const AIR_SURVEIL_SYSTEM_DESC = "Fabricated hardware for detection of air toxins present in the environment and visualized its data online via an intuitive📊 📈  website. The website enables us to live monitor the air toxins and control the hardware. Refer below two links for more info." 
 
 export const ROADMAP_DESC = "🛣️ Career roadmaps for FrontEnd, BackEnd and QA. The main purpose of these roadmaps is to view the available landscape of tools & technologies for the respected profession/ career path and to steer the learning process in an ordered flow.";
 
